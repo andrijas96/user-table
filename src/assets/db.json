@@ -1,0 +1,63 @@
+
+    [
+    {
+        "id": 1,
+        "firstname":"Andrija",
+        "lastname":"Stevanovic",
+        "gender": "Male"
+    },
+    {
+        "id": 2,
+        "firstname":"Nikola",
+        "lastname":"Nikolic",
+        "gender": "Male"
+    },
+    {
+        "id": 3,
+        "firstname":"Milica",
+        "lastname":"Stevanovic",
+        "gender": "Female"
+    },
+    {
+        "id": 4,
+        "firstname":"Marija",
+        "lastname":"Milic",
+        "gender": "Female"
+    },
+    {
+        "id": 5,
+        "firstname":"Stefan",
+        "lastname":"Tomic",
+        "gender": "Male"
+    },
+    {
+        "id": 6,
+        "firstname":"Nevena",
+        "lastname":"Stevanovic",
+        "gender": "Female"
+    },
+    {
+        "id": 7,
+        "firstname":"Nemanja",
+        "lastname":"Vukcevic",
+        "gender": "Male"
+    },
+    {
+        "id": 8,
+        "firstname":"Sanja",
+        "lastname":"Stojkovic",
+        "gender": "Female"
+    },
+    {
+        "id": 9,
+        "firstname":"Aleksa",
+        "lastname":"Arsic",
+        "gender": "Male"
+    },
+    {
+        "id": 10,
+        "firstname":"Tamara",
+        "lastname":"Zivkovic",
+        "gender": "Female"
+    }
+]

@@ -1,0 +1,7 @@
+<mat-toolbar color="primary">User List</mat-toolbar>
+<div class="container">
+  <div class="user-list-wrapper">
+    <filter-users (filterEvent)="filterEventHandler($event)"></filter-users>
+    <user-table [filteredUsers]="filteredUsers"></user-table>
+  </div>
+</div>
